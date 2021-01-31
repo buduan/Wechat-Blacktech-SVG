@@ -1,2 +1,3 @@
-# symmetrical-telegram
-微信公众号图文黑科技SVG交互排版样式代码
+# 微信图文交互式SVG黑科技排版
+微信公众号图文黑科技SVG交互排版样式代码集
+By Buduan
